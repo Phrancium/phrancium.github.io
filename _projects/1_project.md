@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: A Short Quest
 description: with background image
 img: assets/img/12.jpg
 importance: 1
@@ -8,18 +8,9 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Your mom needs you to help her buy and eggfor your dad's birthday cake. Sounds easy enough, right?
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+THis is a story based game with multiple endings created using unity to showcase a system I'm developing of allowing the player to have conversations with the NPC characters while still maintaining a script and character and informational consistency. The goal is to allow the player to type to each character as if they're actually talking to them but not rely on the LLM for story content. This means that while I am using an embedded LLM, it will not be generating any story content is is there just to make sure that the conversation flows better and give the player the facade of a free flowing conversation.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
