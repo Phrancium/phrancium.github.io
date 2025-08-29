@@ -3,6 +3,7 @@ layout: page
 title: A Short Quest
 description: with background image
 img: assets/img/12.jpg
+redirect: https://phrancium.itch.io/a-short-quest
 importance: 1
 category: work
 related_publications: true
