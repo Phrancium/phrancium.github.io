@@ -400,12 +400,12 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "projects-a-short-quest",
           title: 'A Short Quest',
-          description: "with background image",
+          description: "A story game built using a fine-tuned classifier and an embedded LLM",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+          description: "a silly game about protecting a VIP",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
