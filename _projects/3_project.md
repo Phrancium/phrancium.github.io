@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+description: a silly game about protecting a VIP
+img: assets/img/MrPresident.jpg
 redirect: https://kimber1y.itch.io/get-down-mr-president
 importance: 3
 category: work

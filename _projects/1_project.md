@@ -1,15 +1,15 @@
 ---
 layout: page
 title: A Short Quest
-description: with background image
-img: assets/img/12.jpg
+description: A story game built using a fine-tuned classifier and an embedded LLM
+img: assets/img/ShortQuest.jpg
 redirect: https://phrancium.itch.io/a-short-quest
 importance: 1
 category: work
 related_publications: true
 ---
 
-Your mom needs you to help her buy and eggfor your dad's birthday cake. Sounds easy enough, right?
+Your mom needs you to help her buy and egg for your dad's birthday cake. Sounds easy enough, right?
 
 THis is a story based game with multiple endings created using unity to showcase a system I'm developing of allowing the player to have conversations with the NPC characters while still maintaining a script and character and informational consistency. The goal is to allow the player to type to each character as if they're actually talking to them but not rely on the LLM for story content. This means that while I am using an embedded LLM, it will not be generating any story content is is there just to make sure that the conversation flows better and give the player the facade of a free flowing conversation.
 
