@@ -4,7 +4,6 @@ github_users:
 repo_description_lines_max: 1
 
 github_repos:
-  - Phrancium/A-Short-Quest
   - jennifer-ruan/mr-president
   - Phrancium/Travelling-Salesman-With-Genetic-Algorithm
   - Phrancium/EZPark
